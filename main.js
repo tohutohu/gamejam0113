@@ -59,7 +59,7 @@ phina.define('MainScene', {
     this.exit({
       message:'レポートが書き終わらないまま朝を迎えてしまった…',
       hashtags:'traP3jam',
-      url:null,
+      url:'https://tohutohu.github.io/gamejam0113',
       score:0
     });   
   },
@@ -67,7 +67,7 @@ phina.define('MainScene', {
     this.exit({
       message:'無事レポートを提出して落胆を免れた！！！',
       hashtags:'traP3jam',
-      url:null,
+      url:'https://tohutohu.github.io/gamejam0113',
       score:text
     });   
   },
