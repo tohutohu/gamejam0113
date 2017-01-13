@@ -196,6 +196,7 @@ phina.main(function() {
     width:720,
     height:480,
     assets:ASSETS,
+    fit:false,
   });
   // アプリケーション実行
   app.run();
